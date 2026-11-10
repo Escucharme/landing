@@ -1,0 +1,29 @@
+.banner {
+  background-size: cover;
+  background-position: center;
+  padding: 100px 0;
+}
+
+.banner h2, .banner p {
+  color: #F9EAE1;
+}
+
+.banner p{
+  font-size: 2em;
+}
+
+.banner-container {
+  margin: 0 auto;
+  width: 1000px;
+}
+
+.btn {
+  text-decoration: none;
+  display: inline-block;
+  background-color: #7D4F50;
+  padding: 15px 30px;
+  border-radius: 50px;
+  color: #F9EAE1;
+  font-weight: bold;
+  margin: 15px 15px;
+}
